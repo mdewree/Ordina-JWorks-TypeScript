@@ -1,0 +1,23 @@
+{
+  "name": "ordina-jworks-typescript",
+  "version": "1.0.0",
+  "description": "This workshop will guide you through the core elementals of TypeScript.\r Each branch has a exercise that leads step by step till the final solution.\r Exercise 2 will have the solution of exercise 1 and so on... \r So try your best and may the force guide you!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdewree/Ordina-JWorks-TypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdewree/Ordina-JWorks-TypeScript/issues"
+  },
+  "homepage": "https://github.com/mdewree/Ordina-JWorks-TypeScript#readme",
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "local-web-server": "^2.6.0"
+  }
+}

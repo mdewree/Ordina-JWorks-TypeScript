@@ -1,0 +1,20 @@
+{
+    "movies": [
+      {
+        "title": "Matrix",
+        "genre": "Comedy",
+        "description": "Srsly comedy?",
+        "age": 16,
+        "name":"PG"
+      }
+    ],
+  
+    "books": [
+      {
+        "title": "The Hobbit",
+        "author": "JRR Tolkien",
+        "genre": "Fantasy",
+        "description": "A Hobbit on a Adventure!"
+      }
+    ]
+  }

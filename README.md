@@ -9,7 +9,7 @@ So try your best and may the force guide you!
 
 ### Prerequisites
 Some software is needed to perform this lab.  
-1. **Editor**.  *IntelliJ* is great tool and transpiler for TypeScript.  
+1. **Editor**.  Choose the IDE your most comfortable with, most of them have support for TypeScript
 2. **NodeJS**. NPM (package manager) is needed to get dependencies (compare with Maven or Gradle). Can be downloaded at https://nodejs.org/en/ . Avoid installing using brew/macports etc. as it can lead to permission problems. If NPM is installed correctly, you should be able to run **npm --version** in your terminal/command prompt
 
 Let's go to our first exercise.
